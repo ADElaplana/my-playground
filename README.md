@@ -7,4 +7,5 @@ A sandbox repository where I explore how things work and improve my coding skill
 ## Projects
 
 - [Robot_vs_Monster_pygame](Robot_vs_Monster_pygame/)  
-  A simple Pygame demo where you collect coins and dodge a monster.  
+  A simple Pygame demo where you collect coins and dodge a monster.
+   **My submission in the “Advanced Course in Programming” in Python (University of Helsinki MOOC).**
