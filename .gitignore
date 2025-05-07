@@ -1,1 +1,8 @@
 .DS_Store
+
+# Python caches and byte-code
+__pycache__/
+*.py[cod]
+
+# VS Code workspace settings
+.vscode/
